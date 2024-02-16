@@ -1,0 +1,844 @@
+{
+	"location": "RobinOne.txt",
+	"language": "en",
+	"entities": [
+		{
+			"labels":[
+				{
+					"category": "Docking Stations",
+					"offset": 2,
+					"length": 15
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 99,
+					"length": 5
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 106,
+					:length": 8
+				},
+				{
+					"category": "Audio",
+					"offset": 116,
+					"length": 8
+				},
+				{
+					"category": "Monitors",
+					"offset": 126,
+					"length": 7
+				},
+				{
+					"category": "Wi-Fi and Networking",
+					"offset": 135,
+					"length": 8
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 153,
+					"length": 15
+				},
+				{
+					"category": "Desktops",
+					"offset": 235,
+					"length": 16
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 293,
+					"length": 6
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 320,
+					"length": 11
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 340,
+					"length": 6
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 348,
+					"length": 4
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 354,
+					"length": 4
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 405,
+					"length": 16
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 434,
+					"length": 5
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 443,
+					"length": 5
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 547,
+					"length": 6
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 561,
+					"length": 15
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 653,
+					"length": 6
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 684,
+					"length": 15
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 726,
+					"length": 6
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 777,
+					"length": 6
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters",
+					"offset": 874,
+					"length": 7
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 915,
+					"length": 6
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 937,
+					"length": 6
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters",
+					"offset": 968,
+					"length": 15
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1003,
+					"length": 15
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters",
+					"offset": 1064,
+					"length": 10
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1095,
+					"length": 15
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1118,
+					"length": 6
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1179,
+					"length": 11
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1374,
+					"length": 15
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters",
+					"offset": 1522,
+					"length": 10
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters",
+					"offset": 1570,
+					"length": 10
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1588,
+					"length": 
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 1622,
+					"length": 3
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 1629,
+					"length": 11
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1648,
+					"length": 6
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1675,
+					"length": 20
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1701,
+					"length": 6
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1724,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1734,
+					"length": 5
+				},
+				{
+					"category": "Monitors",
+					"offset": 1741,
+					"length": 8
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1776,
+					"length": 15
+				},
+				{
+					"category": "Monitors",
+					"offset": 1822,
+					"length": 8
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1873,
+					"length": 15
+				},
+				{
+					"category": "Monitors",
+					"offset": 1906,
+					"length": 7
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1926,
+					"length": 15
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 1966,
+					"length": 15
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 2137,
+					"length": 15
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 2262,
+					"length": 16
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 2459,
+					"length": 15
+				},'				{
+					"category": "Docking Stations",
+					"offset": 2593,
+					"length": 15
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 2616,
+					"length": 6
+				},
+				{
+					"category": "Docking Stations",
+					"offset": 2833,
+					"length": 5
+				}
+			]
+		}
+	],
+	"dataset": "Train"
+},
+
+{
+	"location": "RobinTwo.txt",
+	"language": "en",
+	"entities": [
+		{
+			"labels":[
+				{
+					"category": "Keyboards and Mice",
+					"offset": 0,
+					"length": 8
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 23,
+					"length": 3
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 42,
+					"length": 17
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 77,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 173,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 212,
+					"length": 9
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 244,
+					"length": 8
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 259,
+					"length": 3
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 287,
+					"length": 19
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 331,
+					"length": 6
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 575,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 654,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 702,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 804,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 831,
+					"length": 8
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 846,
+					"length": 9
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 868,
+					"length": 21
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 977,
+					"length": 3
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 992,
+					"length": 9
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 1014,
+					"length": 3
+				},
+				{
+					"category": "Cables and Adapters",
+					"offset": 1029,
+					"length": 21
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1093,
+					"length": 30
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1150,
+					"length": 8
+				},
+				{
+					"category": "Parts, Batteries and Upgrades",
+					"offset": 1164,
+					"length": 9
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1204,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1217,
+					"length": 8
+				},
+				{
+					"category": "Parts, Batteries and Upgrades",
+					"offset": 1260,
+					"length": 9
+				},
+				{
+					"category": "Parts, Batteries and Upgrades",
+					"offset": 1437,
+					"length": 9
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1455,
+					"length": 30
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1550,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1575,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1599,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1653,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1670,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 1861,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1901,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1960,
+					"length": 13
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 2041,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 2118,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 2435,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 2711,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 3012,
+					"length": 16
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 3195,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 3220,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 3254,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 3293,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice",
+					"offset": 3411,
+					"length": 8
+				}
+			]
+		}
+	],
+	"dataset": "Train"
+},
+
+{
+	"location": "RobinThree.txt",
+	"language": "en",
+	"entities": [
+		{
+			"labels":[
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 15,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 63,
+					"length": 13
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 346,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 390,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 462,
+					"length": 8
+				},
+				{
+					"category": "Parts, Batteries and Upgrades",
+					"offset": 533,
+					"length": 4
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 559,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 688,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 809,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 911,
+					"length": 13
+				},
+				{
+					"category": "Laptops and 2-in-1 PC",
+					"offset": 1018
+					"length": 13
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1140,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1251,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1331,
+					"length": 8
+				},
+				{
+					"category": "Cables and Adapters"
+					"offset": 1356,
+					"length": 11
+				},
+				{
+					"category": "Webcams and Video Conferencing"
+					"offset": 1379,
+					"length": 7
+				},
+				{
+					"category": "Hard Drives, SSDs and Storage"
+					"offset": 1388,
+					"length": 11
+				},
+				{
+					"category": "Keyboards and Mice"
+					"offset": 1420,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice"
+					"offset": 1433,
+					"length": 5
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1456,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1640,
+					"length": 8
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters"
+					"offset": 1669,
+					"length": 11
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters"
+					"offset": 1724,
+					"length": 10
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 1750,
+					"length": 7
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1768,
+					"length": 8
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 1791,
+					"length": 7
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 1820,
+					"length": 7
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 1853,
+					"length": 7
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1924,
+					"length": 6
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 1941,
+					"length": 7
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 1964,
+					"length": 9
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2007,
+					"length": 6
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 2065,
+					"length": 7
+				},
+				{
+					"category": "Latitude"
+					"offset": 2099,
+					"length": 16
+				},
+				{
+					"category": "Cables and Adapters"
+					"offset": 2221,
+					"length": 3
+				},
+				{
+					"category": "Webcams and Video Conferencing"
+					"offset": 2244,
+					"length": 7
+				},
+				{
+					"category": "Hard Drives, SSDs and Storage"
+					"offset": 2253,
+					"length": 11
+				},
+				{
+					"category": "Keyboards and Mice"
+					"offset": 2285,
+					"length": 8
+				},
+				{
+					"category": "Keyboards and Mice"
+					"offset": 2298,
+					"length": 5
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters"
+					"offset": 2436,
+					"length": 11
+				},
+				{
+					"category": "Batteries, Chargers & Power Adapters"
+					"offset": 2479,
+					"length": 10
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 2494,
+					"length": 7
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2507,
+					"length": 7
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2533,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2695,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2801,
+					"length": 6
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2871,
+					"length": 6
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2927,
+					"length": 7
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 2998,
+					"length": 7
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 3119,
+					"length": 13
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 3134,
+					"length": 3
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 3142,
+					"length": 12
+				},
+				{
+					"category": "Parts, Batteries and Upgrades"
+					"offset": 3156,
+					"length": 11
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 3321,
+					"length": 
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 3559,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 3720,
+					"length": 8
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 3762,
+					"length": 4256
+				},
+				{
+					"category": "Keyboards and Mice"
+					"offset": 3820,
+					"length": 5
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 3875,
+					"length": 7
+				},
+				{
+					"category": "Laptops and 2-in-1 PC"
+					"offset": 4093,
+					"length": 8
+				}
+			]
+		}
+	],
+	"dataset": "Train"
+}
