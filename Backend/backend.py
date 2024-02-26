@@ -1,4 +1,4 @@
-from flask import Flask, redirect, url_for, render_template, request, session, Response
+from flask import Flask, redirect, url_for, render_template, request, session, Response, jsonify
 import flask_cors
 import requests 
 import json 
@@ -27,6 +27,33 @@ with open("request.json","r") as f:
     azure_json = json.loads(f.read())
 
 database = {}
+
+#Function that takes a list of categories and returns a list of links to Dell product pages according to the categories
+def process_categories(categories): #(If the list is called 'categories')
+    links = []  # List that will store the links
+
+    # Go through each category in the list
+    for category in categories:
+        #check if category is in the database
+        if category in link_lookup_table:
+            category_links = link_lookup_table[category]
+
+            #check if the category has multiple links
+            if isinstance(category_links, list):
+                links.extend(category_links)
+
+            else:
+                links.append(category_links)
+
+        else:
+            # If no links are found, do nothing
+            pass
+
+    links = list(set(links))
+
+    return links
+
+
 @app.route("/")
 def home(): 
     return render_template("basicWebsite.html")
